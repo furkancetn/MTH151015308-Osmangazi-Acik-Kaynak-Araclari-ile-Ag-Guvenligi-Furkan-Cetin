@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+#Giriş
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Günümüzde, bilişim teknolojilerinin hızla gelişmesi ve dijitalleşme süreçlerinin artması, ağ güvenliğinin önemini daha da artırmıştır. Bilgi sistemlerinin ve iletişiminin büyük ölçüde internet üzerinden gerçekleştiği bir çağda, güvenlik ihlalleri ve saldırılar ciddi tehditler oluşturmaktadır. Bu bağlamda, ağ güvenliği, kurumların ve bireylerin bilgi varlıklarını korumak, hizmet kesintilerini önlemek ve siber tehditlere karşı dirençli olmak için hayati bir öneme sahiptir.
 
-## Commands
+Bu çalışmanın odak noktası, ağ güvenliğinin günümüzdeki kritik rolünü vurgulamak ve bu alandaki önemli konuları ele almaktır. Ağ güvenliği, sadece bireylerin ve kurumların değil, aynı zamanda ulusal güvenliğin temel bir unsuru haline gelmiştir.[2] Bilgi sızıntıları, veri manipülasyonu ve siber saldırılar hem özel sektörde hem de kamu sektöründe büyük zararlara yol açabilir. Bu nedenle, ağ güvenliği stratejilerinin etkili bir şekilde geliştirilmesi ve uygulanması büyük bir öneme sahiptir.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Bu çalışma aynı zamanda belirli bir araştırma konusuna odaklanmaktadır. Araştırmanın ana konusu, mevcut ağ güvenliği sorunları ve çözümlerinin incelenmesi ve bu bağlamda yeni yaklaşımların ortaya konmasıdır. 
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Çalışmanın kapsamı, ağ güvenliği stratejileri, saldırı tespiti ve önleme yöntemleri, güvenlik politikalarının oluşturulması gibi geniş bir alanı içermektedir. Bu kapsam dahilinde, farklı sektörlerdeki güvenlik ihtiyaçları da ele alınarak, önerilen çözümler ve stratejiler geniş bir perspektiften değerlendirilecektir.
