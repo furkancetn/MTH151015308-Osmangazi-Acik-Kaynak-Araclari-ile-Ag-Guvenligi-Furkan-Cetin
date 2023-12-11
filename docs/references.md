@@ -8,6 +8,13 @@ https://bariskoparmal.com/2020/01/13/ddos-saldiri-turleri/
 https://dergipark.org.tr/en/download/article-file/536201
 http://users.umiacs.umd.edu/~tdumitra/papers/CCS-2012.pdf
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=9bcdb69f5dc2bac151c811a137501f25bec77e80
+https://ab.org.tr/ab12/bildiri/82.pdf
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5455789&casa_token=6pjTZCsrU0kAAAAA:KaJ5efqUcF9RDiAXcGWKBJEeCJfinmec55J3CMNmIiSiknAPAHLzwuHrm46KjcfdNXr4uVegBtmo&tag=1
+https://www.researchgate.net/profile/Ashutosh-Satapathy/publication/310761924_A_Comprehensive_Survey_on_SSL_TLS_and_their_Vulnerabilities/links/58d1045e92851c1db43dfbfd/A-Comprehensive-Survey-on-SSL-TLS-and-their-Vulnerabilities.pdf
+https://www.rfc-editor.org/rfc/rfc2104
+https://corpora.tika.apache.org/base/docs/govdocs1/663/663364.pdf
+https://www.researchgate.net/profile/Ibrahim_Ghafir/publication/305957483_Network_Monitoring_Approaches_An_Overview/links/57a75c9d08aefe6167bc1f91/Network-Monitoring-Approaches-An-Overview.pdf
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4402456&casa_token=f8ScOD-SrOMAAAAA:khgfev9tibx2CC6NJhUnFtDqvmoxpWjb17dUPfiTexEFG0B5atN07xiPeFpfnrV3ZccxJBJKWgdG
 
 # Resimler
 
