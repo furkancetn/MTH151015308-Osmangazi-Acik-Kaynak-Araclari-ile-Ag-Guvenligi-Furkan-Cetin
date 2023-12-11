@@ -195,4 +195,3 @@ Güvenlik ihlali durumunda müdahale prosedürleri, bir organizasyonun güvenlik
 - **Yönetim Bildirimleri:** Üst yönetim ve ilgili paydaşlara olay hakkında düzenli raporlama.
 
 - **Uygun Otoriteler Bildirimi:** Gerekiyorsa güvenlik olayının yetkili otoritelere bildirilmesi.
-
