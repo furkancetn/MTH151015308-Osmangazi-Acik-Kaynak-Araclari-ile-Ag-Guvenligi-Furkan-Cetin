@@ -15,6 +15,11 @@ https://www.rfc-editor.org/rfc/rfc2104
 https://corpora.tika.apache.org/base/docs/govdocs1/663/663364.pdf
 https://www.researchgate.net/profile/Ibrahim_Ghafir/publication/305957483_Network_Monitoring_Approaches_An_Overview/links/57a75c9d08aefe6167bc1f91/Network-Monitoring-Approaches-An-Overview.pdf
 https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4402456&casa_token=f8ScOD-SrOMAAAAA:khgfev9tibx2CC6NJhUnFtDqvmoxpWjb17dUPfiTexEFG0B5atN07xiPeFpfnrV3ZccxJBJKWgdG
+https://www.kvkk.gov.tr
+https://gdpr-info.eu
+https://www.pcisecuritystandards.org
+https://www.nist.gov
+https://www.bsigroup.com/tr-TR/ISO-27001-Bilgi-Guvenligi-Yonetimi/iso-27001-nedir/
 
 # Resimler
 
