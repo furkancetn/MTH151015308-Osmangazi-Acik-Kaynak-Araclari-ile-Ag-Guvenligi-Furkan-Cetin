@@ -1,0 +1,18 @@
+site_name: Furkan Çetin 152120211152
+default: introduction.md
+nav:
+  - Giriş: introduction.md
+  - Konular:
+    - Güncel Ağ Güvenliği Sorunları: subject1.md
+    - Ağ Güvenliği Çözümleri Araçları: subject2.md
+    - Ağ Güvenliği Politikaları ve Standartları: subject3.md
+  - Sonuç: end.md
+  - Kaynakça: references.md
+
+repo_url: "https://github.com/furkancetn/MTH151015308-Osmangazi-Acik-Kaynak-Araclari-ile-Ag-Guvenligi-Furkan-Cetin"
+repo_name: 'GitHub'
+site_author: Furkan Çetin
+
+theme:
+  name: mkdocs
+  locale: tr
